@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gustavo Fernández</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
+<p align="left">
+
+  My name is Gustavo Fernández, I am a Full Stack Web Developer and currently, I am studying Computer Engineering. I am a responsible person, with a good predisposition, eager to learn and work in a team, I like challenges and I always try to achieve the best results.
+</p>
+
+
+
 - 🔭 I’m currently working on **personal web projects**
 
 - 👯 I’m looking to collaborate on **all types of projects**
